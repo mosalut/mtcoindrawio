@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T23:51:00.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.9.2" etag="SzTV4jrQVN2RiHwzUTD-" type="github"><diagram id="b-U114-8n3BM4X8bJa7Z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-26T00:16:55.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="CZPcUE6tzZ9oKI6SUAAb" version="14.9.2" type="github">
+  <diagram id="b-U114-8n3BM4X8bJa7Z" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-7" value="wallet" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-8" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-9" value="block" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="235" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-10" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="225" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-11" value="tradition" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-12" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-13" value="UTXO set" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#5D7F99;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="365" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-14" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#23445D;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-15" value="workproof" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#61C6CE;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-16" value="5" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#12AAB5;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-22" value="mtcoin 功能模块" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="200" height="55.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-23" value="chain" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="495" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-24" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="485" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-25" value="&lt;font color=&quot;#ffffff&quot;&gt;wallet&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-26" value="&amp;nbsp;- create new address&lt;br&gt;&amp;nbsp;- sign&lt;br&gt;&amp;nbsp;- list wallets&lt;br&gt;&amp;nbsp;- get public keys" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="710" y="110" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-27" value="&lt;font color=&quot;#ffffff&quot;&gt;block&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#d79b00;fontSize=17;fontStyle=1;align=center;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="900" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-28" value="&amp;nbsp;- get block&lt;br&gt;&amp;nbsp;- append block&lt;br&gt;&amp;nbsp;- verify block" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="900" y="110" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-29" value="&lt;font color=&quot;#ffffff&quot;&gt;tradition&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#d79b00;fontSize=17;fontStyle=1;align=center;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-30" value="&amp;nbsp;- get tradition&lt;br&gt;&amp;nbsp;- get transaction&lt;br&gt;&amp;nbsp;- create raw tradition&lt;br&gt;&amp;nbsp;- decode raw tradition&lt;br&gt;&amp;nbsp;- sign raw tradition&lt;br&gt;&amp;nbsp;- send raw tradition&lt;br&gt;&amp;nbsp;- verify traditon&lt;br&gt;&amp;nbsp;- create transaction&lt;br&gt;&amp;nbsp;- make coinbase" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="110" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-32" value="&lt;font color=&quot;#ffffff&quot;&gt;utxo set&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=none;fontSize=17;fontStyle=1;align=center;fillColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="345" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-33" value="&amp;nbsp;- list utxo set&lt;br&gt;&amp;nbsp;- get utxos&lt;br&gt;&amp;nbsp;- update utxo set&lt;br&gt;&amp;nbsp;" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="710" y="385" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-34" value="&lt;font color=&quot;#ffffff&quot;&gt;workproof&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#d79b00;fontSize=17;fontStyle=1;align=center;fillColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="345" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-35" value="&amp;nbsp;- start mining&lt;br&gt;&amp;nbsp;- stop mining&lt;br&gt;&amp;nbsp;- set target bits" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="900" y="385" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-36" value="&lt;font color=&quot;#ffffff&quot;&gt;chain&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#d79b00;fontSize=17;fontStyle=1;align=center;fillColor=#1A3300;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="345" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwMAWGrce7KaUUfaYpXS-37" value="&amp;nbsp;- get status&lt;br&gt;&amp;nbsp;- get block chain&lt;br&gt;&amp;nbsp;" style="shape=rect;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="385" width="190" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
