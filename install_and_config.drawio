@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T03:39:53.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.9.2" etag="cyyB6g_egaX_isx-yKw7" type="github"><diagram id="vxgkZfxpFqacFOCUN7gb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T09:10:43.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="jF9nQPtcqu8tCQUVU0NA" version="14.9.2" type="github">
+  <diagram id="vxgkZfxpFqacFOCUN7gb" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-1" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#12AAB5;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#12AAB5;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="450" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-2" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#23445D;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="430" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-3" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#AE4132;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#AE4132;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="410" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#F2931E;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#F2931E;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="390" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-5" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#10739E;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="370" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-6" value="wallet" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#10739E;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="210" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-7" value="chain" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#F2931E;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="290" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-8" value="index" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#AE4132;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="370" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-9" value="utxo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#23445D;align=left;verticalAlign=bottom;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-10" value="status" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#12AAB5;align=left;verticalAlign=bottom;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="460" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-11" value="钱包地址，存储到文件" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="240" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-12" value="所有区块的存储" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="320" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-13" value="区块索引的存储" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-14" value="未花费输出&lt;br&gt;unspent transaction output" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="500" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-15" value="区块链当前状态" style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="590" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot; color=&quot;#1a3300&quot;&gt;config&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;~/.mtcoin/config&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="135" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px&quot; color=&quot;#1a3300&quot;&gt;install&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;~/.mtcoin/&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="135" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-20" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#e6e6e6&quot;&gt;mtcoind&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-23" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 18px&quot;&gt;mtcoin-cli&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="305" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-24" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 18px&quot;&gt;install.sh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGY-AZIS-t5WHzeeOzYb-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$ wget&lt;br&gt;$ tar zvxf mtcoin.tar&lt;br&gt;$ ./install.sh&lt;br&gt;$ mtcoind&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
